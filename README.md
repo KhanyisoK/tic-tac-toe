@@ -17,3 +17,7 @@ Remember, every time you make changes to your Vue.js components, you need to rec
 
 
 ![image](https://github.com/KhanyisoK/tic-tac-toe/assets/38207293/393fe2c6-62a0-4ca4-9ea6-21278aebc7c4)
+
+AI LOGIC ON THE CLIENT SIDE
+
+The AI logic for games like Tic-Tac-Toe is often implemented on the front end (client side) for Simplicity and Efficiency. Tic-Tac-Toe is a relatively simple game with limited possible moves, which means the AI logic isn't computationally intensive. It's more efficient to handle this on the client side and avoid extra server requests.
